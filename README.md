@@ -12,7 +12,7 @@ However, you can explore my **public engineering showcases, architectural case s
 
 *   🏠 **Interactive Portfolio Gateway:** [https://khaldragonfeng.github.io/portfolio/](https://khaldragonfeng.github.io/portfolio/) (My resume & dashboard hub)
 *   📂 **Production DevOps Blueprints:** [https://github.com/KhalDragonFeng/portfolio](https://github.com/KhalDragonFeng/portfolio) (My open source blueprints repository)
-*   🚀 **Full-Stack SaaS Starter:** [https://github.com/KhalDragonFeng/nextjs-saas-starter](https://github.com/KhalDragonFeng/nextjs-saas-starter) (Next.js 15, Prisma, Tailwind, JWT Auth)
+*   🚀 **Full-Stack SaaS Starter (Live Demo):** [https://nextjs-saas-starter-green.vercel.app/](https://nextjs-saas-starter-green.vercel.app/) (Next.js 15, Prisma, Multi-LLM Router, Tailwind, JWT Auth)
 *   ⚙️ **High-Concurrency Match Engine:** [https://github.com/KhalDragonFeng/spring-kol-match-engine](https://github.com/KhalDragonFeng/spring-kol-match-engine) (Spring Boot 3, Redis, RabbitMQ, Cosine Similarity)
 
 ---
